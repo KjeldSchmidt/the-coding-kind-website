@@ -2,7 +2,7 @@
 title: The Coding Kind
 subtitle: by Kjeld Schmidt and Jan Plewa
 email: contact@kjeld-schmidt.com
-baseurl: "/tck-website" # the subpath of your site, e.g. /blog
+baseurl: "/the-coding-kind-website" # the subpath of your site, e.g. /blog
 url: https://kjeld-schmidt.com # the base hostname & protocol for your site
 author: Kjeld Schmidt and Jan Plewa
 formspree-url: https://formspree.io/f/mjvqzyge
