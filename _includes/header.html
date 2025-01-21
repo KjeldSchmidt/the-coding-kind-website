@@ -1,0 +1,29 @@
+<!-- Wrapper -->
+<div id="wrapper">
+
+<!-- Header -->
+<header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
+	<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
+	<nav>
+		<a href="#menu">Menu</a>
+	</nav>
+	<a href="https://www.eventbrite.de/e/data-mesh-for-business-tech-and-product-leaders-tickets-741963110637" class="highlight" target="_blank" rel="noreferrer noopener">
+		Join our workshop: Data Mesh for Business, Tech and Product Leaders. November 25th in Cologne.
+	</a>
+</header>
+
+<!-- Menu -->
+<nav id="menu">
+	<ul class="links">
+        {% for page in site.pages %}
+		    {% if page.layout == "home" %}
+		        <li><a href="{{ "" | absolute_url }}/">{{ page.title }}</a></li>
+	    	{% endif %}
+		{% endfor %}
+		{% for page in site.html_pages %}
+		    {% if page.layout != "home" and page.nav-menu == true %}
+		        <li><a href="{{ page.url | absolute_url }}">{{ page.menu-title }}</a></li>
+		    {% endif %}
+		{% endfor %}
+	</ul>
+</nav>

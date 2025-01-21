@@ -1,5 +1,6 @@
 name: 'Automatic build'
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -22,7 +23,7 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.3
+          ruby-version: 2.7
           bundler-cache: true
 
       - name: Deploy
