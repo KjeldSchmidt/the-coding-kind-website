@@ -7,6 +7,11 @@ url: https://kjeld-schmidt.com # the base hostname & protocol for your site
 author: Kjeld Schmidt and Jan Plewa
 formspree-url: https://formspree.io/f/mjvqzyge
 
+# Highlight Banner
+highlight-banner-text: ""
+highlight-banner-link: "https://www.eventbrite.de/e/data-mesh-for-business-tech-and-product-leaders-tickets-741963110637"
+
+
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6

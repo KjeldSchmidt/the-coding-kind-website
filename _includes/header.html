@@ -7,9 +7,11 @@
 	<nav>
 		<a href="#menu">Menu</a>
 	</nav>
-	<a href="https://www.eventbrite.de/e/data-mesh-for-business-tech-and-product-leaders-tickets-741963110637" class="highlight" target="_blank" rel="noreferrer noopener">
-		Join our workshop: Data Mesh for Business, Tech and Product Leaders. November 25th in Cologne.
-	</a>
+	{% if site.highlight-banner-text != "" %}
+		<a href="{{ site.highlight-banner-link }}" class="highlight" target="_blank" rel="noreferrer noopener">
+			{{ site.highlight-banner-text }}
+		</a>
+	{% endif %}
 </header>
 
 <!-- Menu -->
