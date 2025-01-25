@@ -56,6 +56,12 @@ img {
 			}
 		}
 
+		&.soft-corner {
+			img {
+				border-radius: 0.2rem;
+			}
+		}
+
 		&.round {
 			img {
 				border-radius: 50%;
