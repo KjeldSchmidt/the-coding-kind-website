@@ -28,6 +28,8 @@ around Europe.
 </div>
 </div>
 
+---
+
 <div>
 <span class="image left soft-corner"><img src="{% link assets/images/jan-headshot.jpg %}" alt="" /></span>
 
