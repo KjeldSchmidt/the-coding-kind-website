@@ -17,6 +17,23 @@
 			display: none;
 		}
 
+		&.large {
+			font-size: 2rem;
+		}
+
+		&.giant {
+			font-size: 4rem;
+
+			&.left {
+				margin: 0 1rem 0.25em 0;
+			}
+
+			&.right {
+				margin: 0 0 0.25em 1rem;
+			}
+
+		}
+
 		&.alt {
 			&:before {
 				background-color: _palette(fg-bold);
@@ -28,6 +45,25 @@
 				text-align: center;
 				width: 2em;
 			}
+		}
+
+		&.left,
+		&.right {
+			max-width: 30%;
+
+			img {
+				width: 100%;
+			}
+		}
+
+		&.left {
+			float: left;
+			top: 0.25em;
+		}
+
+		&.right {
+			float: right;
+			top: 0.25em;
 		}
 	}
 

@@ -2,9 +2,10 @@
 layout: post
 title: About Us
 menu-title: About Us
-image: assets/images/ammara-being-cool.jpg
+image: assets/images/friendly-pair.jpg
 nav-menu: true
 description: Our background, experience and values
+tile_order: 1
 ---
 
 <div>
