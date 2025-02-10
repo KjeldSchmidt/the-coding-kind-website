@@ -1,7 +1,7 @@
 # site settings
 title: The Coding Kind
 subtitle: Kjeld Schmidt and Jan Plewa
-email: contact@kjeld-schmidt.com
+email: contact@the-coding-kind.com
 baseurl: "/the-coding-kind-website" # the subpath of your site, e.g. /blog
 url: https://kjeld-schmidt.com # the base hostname & protocol for your site
 author: Kjeld Schmidt and Jan Plewa

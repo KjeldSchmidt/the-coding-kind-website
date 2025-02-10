@@ -56,6 +56,23 @@
 		}
 	}
 
+	@mixin with-horizontal-space {
+		margin: 0 auto;
+		max-width: _size(inner);
+		width: calc(100% - 6em);
+
+		:not(a, strong, b, span, em, i, h2, h3, h4, p):after {
+			content: "";
+			display: table;
+			clear: both;
+		}
+
+		@include breakpoint(small) {
+			@include padding(3em, 0);
+			width: calc(100% - 3em);
+		}
+	}
+
 // Base.
 
 	@import 'base/page';
