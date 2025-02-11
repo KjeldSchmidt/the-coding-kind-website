@@ -35,14 +35,13 @@ around Europe.
 
 <div markdown="1">
 
-### **Jan Plewa** - Cool Person
+### **Jan Plewa** - Web Developer and Complexity Translator
 
-Jan is a very cool dude who knows a lot about many things and has smart opinions.
-He is interested in relevant societal topics and is often mad about intellectual 
-property. His general vibe is pretty strong and we do all like him a lot.
+Jan is a Web- and Application Developer, graduate from Le Wagon and long-time Padawan of Kjeld. He seeks out high-paced developing environments with tight deadlines, from [Game Jams](https://itch.io/jam/pirate15/rate/2849539) to rapid prototyping. His interests lie in database design and code architecture - currently at least. Jan enjoys throwing himself at new technologies and scientific topics, able to quickly make sense of abstract complexity.
 
-He is a top-tier dungeon master, as far as I know, and will outplay you in
-sixty different boardgames with ease. He likes red but is open to other colors too.
+He has a background in teaching both youth and adults, and takes care no one on a team is left behind. He is passionate about communication and enjoys people and technology challenges alike.
+
+Jan is a top-tier dungeon master, as far as I know, and will persuade you to join a gamenight given the slightest opportunity. He likes red but is open to other colors too.
 
 [Find Jan on LinkedIn](https://www.linkedin.com/in/jan-plewa/)
 </div>
