@@ -3,7 +3,7 @@ title: Projects
 menu-title: Projects
 layout: post
 description: 'Previous Success Stories'
-image: assets/images/happy-balloons.jpg
+image: assets/images/sticky-notes.jpg
 nav-menu: true
 tile_order: 3
 ---
