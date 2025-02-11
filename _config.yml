@@ -4,8 +4,8 @@ subtitle: Kjeld Schmidt and Jan Plewa
 email: contact@the-coding-kind.com
 baseurl: "/the-coding-kind-website" # the subpath of your site, e.g. /blog
 url: https://kjeld-schmidt.com # the base hostname & protocol for your site
-author: Kjeld Schmidt and Jan Plewa
-formspree-url: https://formspree.io/f/mjvqzyge
+author: by Kjeld Schmidt and Jan Plewa
+formspree-url: "https://formspree.io/f/xeoelajr"
 
 # Highlight Banner
 highlight-banner-text: ""
