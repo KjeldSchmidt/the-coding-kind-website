@@ -1,10 +1,10 @@
 # site settings
 title: The Coding Kind
-subtitle: Kjeld Schmidt and Jan Plewa
+subtitle: Software Consulting and Agile Enablement
 email: contact@the-coding-kind.com
 baseurl: "/the-coding-kind-website" # the subpath of your site, e.g. /blog
 url: https://kjeld-schmidt.com # the base hostname & protocol for your site
-author: by Kjeld Schmidt and Jan Plewa
+author: Kjeld Schmidt and Jan Plewa
 formspree-url: "https://formspree.io/f/xeoelajr"
 
 # Highlight Banner
