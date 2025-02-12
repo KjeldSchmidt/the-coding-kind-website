@@ -72,17 +72,17 @@ or filling gaps on your team, we focus on writing maintainable,
 effective software that fits your needs.
 
 Good software isn’t just about making things work—it’s about making them work in
-a way that’s maintainable. We care about making smart trade-offs that keep
+a way that’s maintainable. We care about making important trade-offs that keep
 projects moving forward without unnecessary complexity. Whether you need a small,
 well-scoped feature or a large, multi-phase project, we approach development with
 a mix of craftsmanship and practicality. Our goal is to build software that serves
 your needs in the moment and remains adaptable for whatever comes next.
 
 **This is a great fit if:**
-- there is greater delivery pressure than your team can currently fulfill, or you have no permanent development teams
-- you need expertise in cloud operations, backend software across numeroud languages, infrastructure management, database design, ...
-- legacy software needs a mysterious bug fixed
-- you need someone who can communicate both from a business perspective and from a highly technical one
+- there is greater delivery pressure than your team can currently fulfill, or you have no permanent development teams.
+- you need expertise in cloud operations, backend software across numeroud languages, infrastructure management, database design (and more).
+- legacy software needs a mysterious bug fixed.
+- you need someone who can communicate both from a business perspective and from a highly technical one.
 
 **You can expect:**
 - rock-solid, useable and deployable software.
