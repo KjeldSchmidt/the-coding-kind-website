@@ -12,7 +12,7 @@ tile_order: 2
 **Rapid User Prototyping**
 
 
-Fast feedback cycles are invaluable to discover a valuable market fit and products that users actually care about. We specialize in turning concepts into working software while rapidly testing assumptions, going to market and gathering feedback for the next version,
+Fast feedback cycles are indispensable to discover a valuable market fit and products that users actually care about. We specialize in turning concepts into working software while rapidly testing assumptions, going to market and gathering feedback for the next version,
 <span class="right icon alt giant fa-solid fa-code-compare"><span class="label">Iteration Icon</span></span>
 which will come very soon. Whether it’s a proof of concept, an MVP, or something in between, we can help you move from idea to execution with speed and clarity.
 
