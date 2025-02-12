@@ -9,14 +9,14 @@ nav-menu: true
 
 **Angaben gem. § 5 TMG:**
 
-The Coding Kind
-Im Mediapark 5
+The Coding Kind  
+Im Mediapark 5  
 50670 Köln
 
 **Kontaktaufnahme:**
 
 Telefon: +4915757040807  
-E-Mail: contact@the-coding-kind.com
+E-Mail: [contact@the-coding-kind.com](mailto:contact@the-coding-kind.com)
 
 **Haftungsausschluss – Disclaimer:**
 
