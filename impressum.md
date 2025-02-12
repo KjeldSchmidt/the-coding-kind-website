@@ -9,14 +9,14 @@ nav-menu: true
 
 **Angaben gem. § 5 TMG:**
 
-Kjeld Schmidt  
-Rochusstraße 54  
-50827 Köln  
+The Coding Kind
+Im Mediapark 5
+50670 Köln
 
 **Kontaktaufnahme:**
 
 Telefon: +4915757040807  
-E-Mail: contact@kjeld-schmidt.com  
+E-Mail: contact@the-coding-kind.com
 
 **Haftungsausschluss – Disclaimer:**
 
