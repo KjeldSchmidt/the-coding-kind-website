@@ -146,3 +146,7 @@ dl {
 		margin-left: _size(element-margin);
 	}
 }
+
+p:has(.list-heading) {
+	margin-bottom: 0;
+}

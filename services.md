@@ -20,13 +20,13 @@ to stakeholders, or just need to see something tangible before committing fully 
 whether it’s a proof of concept, an MVP, or something in between, we can help 
 you move from idea to execution with speed and clarity.
 
-**This is a great fit if:**
+**This is a great fit if:**{: .list-heading}
 - you have existing users, either customers or internal.
 - there are new processes coming up soon and there is no current software support for them.
 - you have an idea for a new feature, but it requires a proof of concept.
 - a current tool is seen as a "necessary evil", for doing an important task poorly.
 
-**You can expect:**
+**You can expect:**{: .list-heading}
 - greatly improved understanding of the problem space.
 - working software that demonstrates a solution for the problem.
 - a clear path to a decision: abandon the idea, expand it into a larger project,
@@ -48,16 +48,16 @@ delivery pipeline that’s smooth, predictable, and resilient. Through improving
 CI/CD, refining testing strategies and creating stable and repeatable environments,
 we can help you focus on building great software without release anxiety.
 
-**This is a great fit if:**
+**This is a great fit if:**{: .list-heading}
 - there is an existing team of developers looking to deliver faster, more frequently and with fewer errors.
 - programming and operations are done by different teams, and you want to change this.
 - there is a consistent struggle to onboard new team members.
 - long wait times to see that changes succeeded are common.
 - deployments depend on the knowledge and expertise of a single team member.
 
-**You can expect:**
+**You can expect:**{: .list-heading}
 - code changes can go live in minutes instead of days or weeks.
-- introducing new errors will become rarer, and the impact severely reduced.
+- introducing new errors will become rarer, and their impact severely reduced.
 - deploying will become a business choice instead of a technical one.
 
 ---
@@ -78,13 +78,13 @@ well-scoped feature or a large, multi-phase project, we approach development wit
 a mix of craftsmanship and practicality. Our goal is to build software that serves
 your needs in the moment and remains adaptable for whatever comes next.
 
-**This is a great fit if:**
+**This is a great fit if:**{: .list-heading}
 - there is greater delivery pressure than your team can currently fulfill, or you have no permanent development teams.
 - you need expertise in cloud operations, backend software across numeroud languages, infrastructure management, database design (and more).
 - legacy software needs a mysterious bug fixed.
 - you need someone who can communicate both from a business perspective and from a highly technical one.
 
-**You can expect:**
+**You can expect:**{: .list-heading}
 - rock-solid, useable and deployable software.
 - expertise across a wide range of technical topics.
 - consulting on effective ways to turn requirements into code.
