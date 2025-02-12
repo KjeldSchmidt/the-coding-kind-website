@@ -5,6 +5,7 @@ layout: post
 description: 'Previous Success Stories'
 image: assets/images/sticky-notes.jpg
 nav-menu: true
+nav-order: 90
 tile_order: 3
 ---
 

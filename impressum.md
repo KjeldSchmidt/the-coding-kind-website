@@ -4,7 +4,7 @@ title: Impressum
 menu-title: Impressum
 description: Legal Information
 show_tile: false
-nav-menu: true
+nav-menu: false
 ---
 
 **Angaben gem. § 5 TMG:**

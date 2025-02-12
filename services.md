@@ -5,6 +5,7 @@ layout: post
 description: 'Our Core Offerings - Speed and Reliablity'
 image: assets/images/code-notebook.jpg
 nav-menu: true
+nav-order: 0
 tile_order: 2
 ---
 

@@ -4,6 +4,7 @@ title: About Us
 menu-title: About Us
 image: assets/images/friendly-pair.jpg
 nav-menu: true
+nav-order: 3
 description: Our background, experience and values
 tile_order: 1
 ---
