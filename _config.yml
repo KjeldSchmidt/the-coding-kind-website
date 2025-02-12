@@ -2,7 +2,7 @@
 title: The Coding Kind
 subtitle: Software Consulting and Agile Enablement
 email: contact@the-coding-kind.com
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog, no trailing slashes!
 url: https://the-coding-kind.com # the base hostname & protocol for your site
 author: Kjeld Schmidt and Jan Plewa
 formspree-url: "https://formspree.io/f/xeoelajr"
