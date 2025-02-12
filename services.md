@@ -64,8 +64,27 @@ we can help you focus on building great software without release anxiety.
 
 ### Software Development
 
-Sometimes, you just need important software to be built well. We bring experience, attention to detail, and a pragmatic approach to solving problems with code. Whether it’s a greenfield project, refactoring legacy systems, 
+Sometimes, you just need important software to be built well. We bring experience,
+attention to detail, and a pragmatic approach to solving problems with code. 
+Whether it’s a greenfield project, fixing bugs in legacy systems, 
 <span class="right icon alt giant fa-solid fa-hexagon-nodes"><span class="label">speed icon</span></span>
-or filling in gaps on your team, we focus on writing maintainable, effective software that fits your needs.
+or filling gaps on your team, we focus on writing maintainable,
+effective software that fits your needs.
 
-Good software isn’t just about making things work—it’s about making them work well, in a way that’s sustainable over time. We care about code quality, maintainability, and making smart trade-offs that keep projects moving forward without unnecessary complexity. Whether you need a small, well-scoped feature or a large, multi-phase project, we approach development with a mix of craftsmanship and practicality. Our goal is to build software that serves your needs now and remains adaptable for whatever comes next.
+Good software isn’t just about making things work—it’s about making them work in
+a way that’s maintainable. We care about making smart trade-offs that keep
+projects moving forward without unnecessary complexity. Whether you need a small,
+well-scoped feature or a large, multi-phase project, we approach development with
+a mix of craftsmanship and practicality. Our goal is to build software that serves
+your needs in the moment and remains adaptable for whatever comes next.
+
+**This is a great fit if:**
+- there is greater delivery pressure than your team can currently fulfill, or you have no permanent development teams
+- you need expertise in cloud operations, backend software across numeroud languages, infrastructure management, database design, ...
+- legacy software needs a mysterious bug fixed
+- you need someone who can communicate both from a business perspective and from a highly technical one
+
+**You can expect:**
+- rock-solid, useable and deployable software.
+- expertise across a wide range of technical topics.
+- consulting on effective ways to turn requirements into code.
