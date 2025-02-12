@@ -2,8 +2,8 @@
 layout: home
 title: Home
 menu-title: Home
-landing-title: 'Rapid User Prototyping and Delivery Enablement on Rock-Solid Fundamentals'
-landing-description: "Doing More with Less is the paradigm of the moment. Doing it faster is becoming ever more important. Through radical collaboration, we can help to validate product ideas at a rapid pace and improve software delivery times to hours - all on a solid core of well-crafted software."
+landing-title: 'Software Development and Consulting for Delivery Enablement and Rapid Prototyping'
+landing-description: "We can help to validate product ideas at a rapid pace. Whittle down software delivery times to hours. Build custom software that is stable, reliable and well-crafted, or integrate into your team in times of need. Get in touch so we can find the solution that works for your company."
 link-button-text: 'Learn More'
 link-button-target: 'services.html'
 description: null
