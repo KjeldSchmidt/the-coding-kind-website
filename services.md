@@ -16,7 +16,7 @@ Fast feedback cycles are indispensable to discover a valuable market fit and pro
 <span class="right icon alt giant fa-solid fa-code-compare"><span class="label">Iteration Icon</span></span>
 which will come very soon. Whether it’s a proof of concept, an MVP, or something in between, we can help you move from idea to execution with speed and clarity.
 
-We take pride ourselves on getting usable software in front of real people as quickly as possible. This means validating core functionality early, adapting based on real feedback, and reducing the risk of investing in the wrong thing. If you're exploring a new product, pitching to stakeholders, or just need to see something tangible before committing fully, we can help you move from idea to working software faster than you might expect.
+We take pride in getting usable software in front of real people as quickly as possible. This means validating core functionality early, adapting based on real feedback, and reducing the risk of investing in the wrong thing. If you're exploring a new product, pitching to stakeholders, or just need to see something tangible before committing fully, we can help you move from idea to working software faster than you might expect.
 
 This is a great fit if:
 - you have existing users, either customers or internal
