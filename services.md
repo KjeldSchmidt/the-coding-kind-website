@@ -21,14 +21,14 @@ whether it’s a proof of concept, an MVP, or something in between, we can help
 you move from idea to execution with speed and clarity.
 
 **This is a great fit if:**
-- you have existing users, either customers or internal
-- there are new processes coming up soon and there is no current software support for them
-- you have an idea for a new feature, but it requires a proof of concept
+- you have existing users, either customers or internal.
+- there are new processes coming up soon and there is no current software support for them.
+- you have an idea for a new feature, but it requires a proof of concept.
 - a current tool is seen as a "necessary evil", for doing an important task poorly.
 
 **You can expect:**
-- greatly improved understanding of the problem space
-- working software that demonstrates a solution for the problem
+- greatly improved understanding of the problem space.
+- working software that demonstrates a solution for the problem.
 - a clear path to a decision: abandon the idea, expand it into a larger project,
   or adopt the provided solution as-is?
 
@@ -49,17 +49,16 @@ CI/CD, refining testing strategies and creating stable and repeatable environmen
 we can help you focus on building great software without release anxiety.
 
 **This is a great fit if:**
-- there is an existing team of developers looking to deliver faster, more frequently and with fewer errors
-- programming and operations are done by different teams, and you want to change this
-- there is a consistent struggle to onboard new team members
-- long wait times to see that changes succeeded are common
-- deployments depend on the knowledge and expertise of a single team member
+- there is an existing team of developers looking to deliver faster, more frequently and with fewer errors.
+- programming and operations are done by different teams, and you want to change this.
+- there is a consistent struggle to onboard new team members.
+- long wait times to see that changes succeeded are common.
+- deployments depend on the knowledge and expertise of a single team member.
 
 **You can expect:**
-- Code changes can go live in minutes instead of days or weeks
-- Introducing new errors will become rarer, and the impact severely reduced
-- Deploying will become a business choice instead of a technical one
-- Developers will confidently own their operations
+- code changes can go live in minutes instead of days or weeks.
+- introducing new errors will become rarer, and the impact severely reduced.
+- deploying will become a business choice instead of a technical one.
 
 ---
 
