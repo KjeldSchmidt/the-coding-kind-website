@@ -30,7 +30,7 @@ which has paid off when he worked in diverse fields, from large Augmented Realit
 art exhibitions to cryptographically secure automotive firmware delivery.
 
 He has spent four years at [Thoughtworks](www.thoughtworks.com), 
-spoken at [XConf](https://www.youtube.com/watch?v=d4tBLzQlRGU) and can
+has spoken at [XConf](https://www.youtube.com/watch?v=d4tBLzQlRGU) and can
 frequently be found at [SoCraTes Conferences](https://www.socrates-conference.de/home)
 around Europe.
 
