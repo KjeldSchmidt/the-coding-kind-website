@@ -9,6 +9,9 @@ description: Our background, experience and values
 tile_order: 1
 ---
 
+
+![](assets/images/logo-square.jpg){: .image .left .soft-corner}
+
 ### The Coding Kind – Striving for Human-Centric Software Development
 
 Our company was build on the trust and partnership of years of collaboration 
