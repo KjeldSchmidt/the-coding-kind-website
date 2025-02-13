@@ -88,3 +88,26 @@ your needs in the moment and remains adaptable for whatever comes next.
 - rock-solid, useable and deployable software.
 - expertise across a wide range of technical topics.
 - consulting on effective ways to turn requirements into code.
+
+
+---
+
+### Unique and Creative Electronics
+
+Some projects are meant to inspire and awe through delightful display pieces or 
+unique physical interactions. Opening a hidden door in an escape room when the 
+right melody is played on a piano?
+Change a museum display based on whether people are looking directly at it or not? 
+Light up the company logo,
+<span class="right icon alt giant fa-solid fa-hexagon-nodes"><span class="label">speed icon</span></span>
+carved from fine walnut, as people walk by? We're excited to help.
+
+**This is a great fit if:**{: .list-heading}
+- you have a creative idea for unique physical interactions.
+- off-the-shelf industrial automations can't cover your needs efficiently.
+- electronics need to be hidden or invisible.
+
+**You can expect:**{: .list-heading}
+- bespoke solutions, fitting technology to your exact creative vision.
+- strong collaboration to achieve cost-effective solutions.
+- to speak the language of vision and intent, without having to overthink the tech yourself.
