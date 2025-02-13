@@ -22,16 +22,24 @@ to adapt to change. If that’s what you are looking for, let’s talk.
 ![](assets/images/kjeld-headshot.jpg){: .image .right .soft-corner}
 
 
-### Kjeld Schmidt - Automation Advocate and Senior Developer
+### Kjeld Schmidt - Automation Advocate and Swiss Army Knife of Development
 
-Kjeld is a software developer with a keen mind for simplicity and essentials.
+Kjeld is a Software Developer with a keen mind for simplicity and essentials.
 He advocates for human-driven development, open platforms and rapid 
 experimentation. He has worked in diverse fields, from large Augmented Reality 
 art exhibitions to cryptographically secure automotive firmware delivery.
 
+Always happy to discuss the philosophies of building both teams and software, 
+he is a strong believer in empowering teams and supporting them in finding their
+ideal ways of working, and insists that agile is an adjective, not a noun.
+
 He has spoken at [XConf](https://www.youtube.com/watch?v=d4tBLzQlRGU) and can
 frequently be found at [SoCraTes Conferences](https://www.socrates-conference.de/home)
 around Europe.
+
+Outside of work, he hikes, bikes, climbs and builds home automation from the 
+ground up, with naught but a soldering iron and an army of microcontrollers.
+No voice assistance allowed.
 
 [Find Kjeld on LinkedIn](https://www.linkedin.com/in/kjeld-schmidt/)
 
