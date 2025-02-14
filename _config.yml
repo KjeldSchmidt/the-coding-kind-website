@@ -41,3 +41,6 @@ exclude:
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md 
+
+plugins:
+  - jekyll-sitemap
