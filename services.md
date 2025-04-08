@@ -80,7 +80,7 @@ your needs in the moment and remains adaptable for whatever comes next.
 
 **This is a great fit if:**{: .list-heading}
 - there is greater delivery pressure than your team can currently fulfill, or you have no permanent development teams.
-- you need expertise in cloud operations, backend software across numeroud languages, infrastructure management, database design (and more).
+- you need expertise in cloud operations, backend software across numerous languages, infrastructure management, database design (and more).
 - legacy software needs a mysterious bug fixed.
 - you need someone who can communicate both from a business perspective and from a highly technical one.
 
