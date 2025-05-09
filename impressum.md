@@ -10,8 +10,9 @@ nav-menu: false
 **Angaben gem. § 5 TMG:**
 
 The Coding Kind  
-Im Mediapark 5  
-50670 Köln
+c/o Kjeld Schmidt
+Rochusstraße 54
+50827 Köln
 
 **Kontaktaufnahme:**
 
